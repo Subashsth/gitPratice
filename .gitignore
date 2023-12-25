@@ -1,1 +1,4 @@
-myLogs.log
+/*.log 
+# /*.log = all logfile on path of root
+# /*.log = mylogs.log
+ignore/
